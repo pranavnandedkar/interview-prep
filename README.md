@@ -1,4 +1,5 @@
 # Senior Staff Engineer Interview Prep
+https://hld.handbook.academy/curriculum/case-studies/url-shortener/
 
 A practical interview-preparation repository for Staff / Senior Staff backend and distributed-systems interviews.
 
